@@ -1,11 +1,11 @@
-# 🛠️ Automation Bot
+# Automation Bot
 
 A collection of Python automation tools designed to make life easier.  
 This project includes bots for organizing files, setting reminders, and scraping data — all under one program.
 
 ---
 
-## 🚀 Features
+##  Features
 - **File Organizer** – Automatically sorts files into folders by type.
 - **Reminder Bot** – Schedule notifications so you never forget tasks.
 - **Scraper Bot** – Extracts information from websites.
@@ -13,7 +13,7 @@ This project includes bots for organizing files, setting reminders, and scraping
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 automationbot/
 │── bots/
 │ ├── file_organizer.py # Organizes downloads
@@ -23,7 +23,7 @@ automationbot/
 │── requirements.txt # Python dependencies
 
 ---
-# 👤 Author
+#  Author
 
 Aiden Zanichkowsky
 📧 aidenzanichkowsky@gmail.com
